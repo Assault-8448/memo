@@ -1,4 +1,5 @@
 # MP4ファイル及びAviutl使用前提
+# エラーで動画を読み込めない場合は「LAVFilters」や「ffdshow」などのコーデックをインストールすると上手く行くかも（情報源: yanorei32）
 
 DirectShowSource("filepath") # filepathは目的のmp4のファイルパスに置換
 super=MSuper(pel=4, hpad=0, vpad=0)
