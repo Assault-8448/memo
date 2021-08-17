@@ -11,4 +11,8 @@
 Reload・Resyncボタンを押しても変わらず1フレーム目から動かない。  
 VRChat関係で唯一なにか触ったとしたら「キャッシュディレクトリ」をデフォルトの位置（AppData\\LocalLow\\VRChat...）にしただけのはず・・・。  
   
-iwaSyncVideoにて、「Live」モードで再生しようとすると「**184Error**」が出現する。
+iwaSyncVideoにて、「Live」モードで再生しようとすると「**184Error**」が出現する。  
+  
+また、「youtube-dl.exe」バイナリのアップデートも試したものの未解決。  
+LocalLow\\VRChat\\Tools ディレクトリ内を全て削除すると自動的にVRChatのサーバーから各種ファイルが降ってくるので、それを利用してアップデートした。  
+が、変わらず再生不可能。
