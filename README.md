@@ -14,6 +14,9 @@ ffmpegのシェルスクリプト。中身をvimかなんかで弄ってから�
 ### [VRChat](./vrchat)
 VRChatのメモ。
 
+### [Python](./python)
+Pythonのメモ。
+
 ## 重要そうなメモ
 
 - ffmpegは高解像度になればなるほどGPUゴリゴリ使ってくれる。  
