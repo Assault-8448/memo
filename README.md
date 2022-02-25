@@ -5,22 +5,30 @@
 
 ## 存在するあれそれ
 
-### [avsファイル](./avs)
+### [avs ファイル](./avs)
+
 AviSynth のあれそれ。フレーム補間やモーションブラーなどなど。
 
-### [ffmpegのsh](./ffmpeg)
-ffmpegのシェルスクリプト。中身をvimかなんかで弄ってから実行するのを前提としています。  
+### [ffmpeg の sh](./ffmpeg)
+
+ffmpeg のシェルスクリプト。中身を vim かなんかで弄ってから実行するのを前提としています。
 
 ### [VRChat](./vrchat)
-VRChatのメモ。
+
+VRChat のメモ。
 
 ### [Python](./python)
-Pythonのメモ。
+
+Python のメモ。
+
+### [PAYDAY 2](./payday2)
+
+Payday2 に関するメモ。
 
 ## 重要そうなメモ
 
-- ffmpegは高解像度になればなるほどGPUゴリゴリ使ってくれる。  
-  1920x1080ではVideo Encodeを10%を使ってくれない。4Kあるいはそれ以上になるともっと使ってくれる・・・のか？（未検証）
+- ffmpeg は高解像度になればなるほど GPU ゴリゴリ使ってくれる。  
+  1920x1080 では Video Encode を 10%を使ってくれない。4K あるいはそれ以上になるともっと使ってくれる・・・のか？（未検証）
 
-- avsファイルはAviutlに食わせる際コーデックを色々入れないと「could not read...」エラーを吐く。
+- avs ファイルは Aviutl に食わせる際コーデックを色々入れないと「could not read...」エラーを吐く。
   「LAVFilters」や「ffdshow」を入れると動いてくれる。
