@@ -177,5 +177,5 @@ dotnet DepotDownloader.dll -app 218620 -depot 218621 -manifest {見つけたMani
 ---
 
 - 一緒に遊びたいのに、友達は誰も戻りたがらないんだ...
-- PAYDAY 2 Discord や r/paydaytheheist で一緒に遊んでくれる人を見つけられるかもしれません。  
-  また、フォーラムの Safe House Lounge で聞いてみるのもいいでしょう。
+  - PAYDAY 2 Discord や r/paydaytheheist で一緒に遊んでくれる人を見つけられるかもしれません。  
+    また、フォーラムの Safe House Lounge で聞いてみるのもいいでしょう。
