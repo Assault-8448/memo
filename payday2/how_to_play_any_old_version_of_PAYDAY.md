@@ -7,8 +7,8 @@
 ## 必要なもの
 
 1. 正規品の PAYDAY 2。海賊版では動作**しません！**
-2. SteamRE DepotDownloader。[GitHub](https://steamcommunity.com/linkfilter/?url=https://github.com/SteamRE/DepotDownloader/releases)から入手できます。
-3. .NET Core Runtime SDK。[Microsoft 公式ページ](https://steamcommunity.com/linkfilter/?url=https://dotnet.microsoft.com/download/dotnet/5.0)から入手できます。
+2. SteamRE DepotDownloader。[GitHub](https://github.com/SteamRE/DepotDownloader/releases)から入手できます。
+3. .NET Core Runtime SDK。[Microsoft 公式ページ](https://dotnet.microsoft.com/download/dotnet/5.0)から入手できます。
 
 **これで準備は完了です！**
 
@@ -16,13 +16,13 @@
 
 PAYDAY 2 の全てのバージョンか、ゲーム全体をダウンロードするには、Manifest ID が必要です。  
 この ID は、ダウンロードしたいゲームを Steam に伝えるのに必要なモノです。  
-PAYDAY 2 の Manifest ID は[スプレッドシート](https://steamcommunity.com/linkfilter/?url=https://docs.google.com/spreadsheets/d/1WKMjyTeXBwHxq7UeuS_qys8m-CWIgQucNhckkh7xtm0/edit#gid=0)から確認できます。  
+PAYDAY 2 の Manifest ID は[スプレッドシート](https://docs.google.com/spreadsheets/d/1WKMjyTeXBwHxq7UeuS_qys8m-CWIgQucNhckkh7xtm0/edit#gid=0)から確認できます。  
 バージョン 134.1 以降の Manifest ID は自分で調べる必要があるかもしれません。  
 もし、完全な Manifest ID リストへのリンクをお持ちの方が居たらコメント欄で教えてください！
 
 どのバージョンをダウンロードするべきなのか分からない？  
 PAYDAY Wiki に PAYDAY 2 の更新履歴が確認できます。  
-[ここ](<https://steamcommunity.com/linkfilter/?url=https://payday.fandom.com/wiki/PC_update_history_(Payday_2)>)に更新履歴等があり、どのバージョンをダウンロードして試せばいいのか決めてみるのに役立つかもしれません。
+[ここ](<https://payday.fandom.com/wiki/PC_update_history_(Payday_2)>)に更新履歴等があり、どのバージョンをダウンロードして試せばいいのか決めてみるのに役立つかもしれません。
 
 ## 注意事項
 
